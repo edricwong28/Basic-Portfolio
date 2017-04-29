@@ -1,0 +1,167 @@
+
+
+
+.header {
+
+
+	
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 2px;
+	overflow: auto;
+	width: 100%;
+	
+
+}
+
+#tabs {
+
+	
+
+	
+
+
+
+}
+
+.tabswrap{
+
+	position: relative;
+	word-spacing: 2px;
+	margin-right: 32px;
+	margin-top: 36px;
+	color: #777777;
+	float: right;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+
+}
+
+#name {
+
+    position: relative;
+	float: left;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-bottom: 16px;
+	padding-top: 16px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	background-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: white;
+}
+
+
+.jumbotron{
+
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-color: #D3D3D3;
+}
+
+
+
+#pic{
+
+	float:left;
+	padding-right: 10px;
+	margin-left: 10px;
+
+}
+
+.main{
+
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 40px;
+	width: 650px;
+	padding: 0px;
+	background-color: #ffffff;
+
+}
+
+#about {
+
+    position: relative;
+    color: #4aaaa5;
+ 	padding-top: 24px;
+ 	margin-left: 24px;
+	font-size: 32px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+
+#p1 {
+	
+	margin-left: 10px;
+	padding-bottom: 128px;
+	position: relative;
+	font-size: 16px;
+	color: #777777;
+	line-height: 1.5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	
+}
+
+.footer{
+
+
+	
+
+	text-align: center;
+	margin-top: 28px;
+	color: white;
+
+	
+
+	
+
+}
+
+.wrapper{
+
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 72px;
+	background-color: #666666;
+	border-style: solid;
+	border-color: #4aaaa5;
+	border-top-width: 12px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+
+
+
+}
+
+.scrollbar{
+
+	float: right;
+	width: 270px;
+	height: 140px;
+	position: absolute;
+	margin-top: 42px;
+	margin-left: 800px;
+	color: #4aaaa5;
+	background-color: white;
+
+}
+
+
+#connect{
+
+	text-align: center;
+	margin-top: 
+	
+
+}
