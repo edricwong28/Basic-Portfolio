@@ -25,7 +25,7 @@
 
 }
 
-.tabswrap{
+tabswrap{
 
 	position: relative;
 	word-spacing: 2px;
@@ -36,6 +36,36 @@
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 
+}
+
+#about2{
+
+		margin-right: 24px;
+		position: relative;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		color: #777777;
+		float: right;
+		margin-right: 28px;
+		margin-top: 62px;
+
+}
+#portfolio{
+
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		color: #777777;
+		float: right;
+		position: relative;
+		margin-right: 30px;
+		margin-top: 62px;
+}
+#contact{
+
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		color: #777777;
+		float: right;
+		position: relative;
+		margin-right: 32px;
+		margin-top: 62px;
 }
 
 #name {
@@ -56,7 +86,7 @@
 
 .jumbotron{
 
-	width: 100%;
+	width: 960px;
 	height: 100%;
 	position: absolute;
 	background-color: #D3D3D3;
@@ -64,19 +94,21 @@
 
 
 
-#pic{
+#image{
 
 	float:left;
-	padding-right: 10px;
-	margin-left: 10px;
+	padding-right: 24px;
+	margin-left: 24px;
+	height: 260px;
+	width: 200px;
 
 }
 
 .main{
 
     position: absolute;
-    margin-left: 80px;
-    margin-top: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
 	width: 650px;
 	padding: 0px;
 	background-color: #ffffff;
@@ -88,7 +120,7 @@
     position: relative;
     color: #4aaaa5;
  	padding-top: 24px;
- 	margin-left: 24px;
+ 	margin-left: 30px;
 	font-size: 32px;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 
@@ -97,7 +129,8 @@
 
 #p1 {
 	
-	margin-left: 10px;
+	margin-left: 24px;
+	margin-right: 24px;
 	padding-bottom: 128px;
 	position: relative;
 	font-size: 16px;
@@ -149,9 +182,9 @@
 	float: right;
 	width: 270px;
 	height: 140px;
-	position: absolute;
-	margin-top: 42px;
-	margin-left: 800px;
+	position: relative;
+	margin-top: 20px;
+	margin-right: 10px;
 	color: #4aaaa5;
 	background-color: white;
 
@@ -163,5 +196,34 @@
 	text-align: center;
 	margin-top: 
 	
+
+}
+
+#facebookicon{
+
+	height: 64px;
+	width: 64px;
+	margin-left: 16px;
+	float: left;
+
+}
+
+#githubicon{
+
+	height: 64px;
+	width: 64px;
+	margin-left: 26px;
+
+
+}
+
+#linkedinicon{
+
+	height: 64px;
+	width: 64px;
+	margin-right: 8px;
+	float: right;
+	
+
 
 }
